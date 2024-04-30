@@ -12,4 +12,4 @@ git commit -m "First Commit"
 
 git status
 
-git push -u origin master
+git push origin master --force
